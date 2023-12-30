@@ -28,7 +28,7 @@
         </td>
         <td align="center" valign="center">
             <a href="https://bsky.app/profile/vandaele.software" target="_blank">
-                <img alt="Bluesky's logo" src="https://vandaele.software/images/bsky.svg" width=48>
+                <img alt="Bluesky's logo" src="https://vandaele.software/images/bluesky-light.svg" width=48>
             </a>
         </td>
     </tr>
