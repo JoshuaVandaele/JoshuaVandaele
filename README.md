@@ -9,7 +9,7 @@
         </td>
         <td align="center" valign="center">
             <img alt="JoshuaVandaele's Top Langs"
-                src="https://githubstats.vandaele.software/top-langs/?username=JoshuaVandaele&layout=compact&bg_color=00000000&hide_border=true&theme=github_dark_dimmed">
+                src="https://githubstats.vandaele.software/top-langs/?username=JoshuaVandaele&hide_progress=true&bg_color=00000000&hide_border=true&theme=github_dark_dimmed&langs_count=10">
         </td>
     </tr>
 </table>
